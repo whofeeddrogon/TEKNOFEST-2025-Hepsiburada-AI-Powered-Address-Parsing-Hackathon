@@ -25,13 +25,13 @@ The core objective of the competition was to match approximately **1 million** n
 Analysis and visualization of our results:
 
 <div align="center">
-  <img src="Ekran görüntüsü 2026-02-19 204247.png" width="800" alt="Interactive Map Analysis">
+  <img src="assets/Ekran görüntüsü 2026-02-19 204247.png" width="800" alt="Interactive Map Analysis">
   <p><i>Figure 1: Interactive map interface visualizing address clusters and centroids across Turkey.</i></p>
 </div>
 
 <div align="center">
-  <img src="Ekran görüntüsü 2026-02-19 204206.png" width="400" alt="Model Error Analysis">
-  <img src="Ekran görüntüsü 2026-02-19 204223.png" width="400" alt="Confidence Metrics">
+  <img src="assets/Ekran görüntüsü 2026-02-19 204206.png" width="400" alt="Model Error Analysis">
+  <img src="assets/Ekran görüntüsü 2026-02-19 204223.png" width="400" alt="Confidence Metrics">
 </div>
 
 ---
@@ -65,20 +65,6 @@ We built a geospatial dashboard to visually inspect our model's performance. It 
 *   Identify problematic labels where addresses were geographically dispersed.
 *   Validate the accuracy of cluster centers in real-time.
 *   Visualize the relationship between raw address strings and their resolved locations.
-
----
-
-## 💻 Setup & Installation
-
-To run this project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/TEKNOFEST-2025-Hepsiburada-AI-Address-Parsing.git
-
-# Install dependencies
-pip install -r requirements.txt
-```
 
 ---
 
