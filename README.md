@@ -25,17 +25,14 @@ The core objective of the competition was to match approximately **1 million** n
 Analysis and visualization of our results:
 
 <div align="center">
-  <img src="assets/Ekran görüntüsü 2026-02-19 204247.png" width="400" alt="Interactive Map Analysis">
-  <p><i>Figure 1: Interactive map interface visualizing address clusters and centroids across Turkey.</i></p>
-</div>
-
-<div align="center">
   <img src="assets/Ekran görüntüsü 2026-02-19 204206.png" width="800" alt="Model Error Analysis">
-  <p><i>Figure 2: Model error analysis and performance visualization.</i></p>
+  <p><i>Figure 1: Model error analysis and performance visualization.</i></p>
 </div>
 
 <div align="center">
-  <img src="assets/Ekran görüntüsü 2026-02-19 204223.png" width="500" alt="Confidence Metrics">
+  <img src="assets/Ekran görüntüsü 2026-02-19 204247.png" width="400" alt="Interactive Map Analysis">
+  <img src="assets/Ekran görüntüsü 2026-02-19 204223.png" width="400" alt="Confidence Metrics">
+  <p><i>Figure 2: Interactive map (left) and confidence metrics (right).</i></p>
 </div>
 
 ---
